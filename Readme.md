@@ -1,7 +1,8 @@
 # ReadMe
 
-Este es nuestro proyecto 
+Este es nuestro proyecto
 Miembros:
 - Juan Gomez Zapata
 - Sebastian Gonzalez Rubio
 - Daniela Rojas Ramos
+- Eric Tiglla Arrascue
