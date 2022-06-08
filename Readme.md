@@ -5,3 +5,4 @@ Miembros:
 - Juan Gomez Zapata
 - Sebastian Gonzalez Rubio
 - Daniela Rojas Ramos
+- Ted Carlos Gómez
